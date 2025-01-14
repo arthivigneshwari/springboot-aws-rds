@@ -1,0 +1,8 @@
+cloud:
+   aws:
+       region:
+             static: ap-south-1
+             auto: false
+       credentials:
+             access-key: AKIAQE464U4YL5I54GRP
+             secret-key: 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
